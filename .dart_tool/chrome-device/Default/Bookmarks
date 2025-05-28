@@ -1,0 +1,687 @@
+{
+   "checksum": "4510359d200b60234ccb3dde2fee0e6c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13333898638058076",
+               "date_last_used": "0",
+               "guid": "345cc581-27fc-492b-b6dc-e135065dbadb",
+               "id": "17",
+               "name": "Bleach บลีซ เทพมรณะ ตอนที่ 343 พากย์ไทย - FairyAnime แฟรี่อนิเมะ",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://fairyanime.net/watch/ymUxNh0mvX.html"
+            }, {
+               "date_added": "13294401676967815",
+               "date_last_used": "0",
+               "guid": "b1e51787-7725-4a51-a8ff-5d24ef77df2e",
+               "id": "18",
+               "name": "One Piece วันพีช ซีซั่น 21 ดินแดนวาโนะ 892-1016 ซับไทย - AnimeLily เว็บดูอนิเมะ",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://animelily.com/one-piece-21/"
+            }, {
+               "date_added": "13295436737929714",
+               "date_last_used": "0",
+               "guid": "f95fb6da-d8c2-4018-a202-d929af1c4355",
+               "id": "19",
+               "name": "One Piece วันพีช ซีซั่น 21 ดินแดนวาโนะ ตอนที่ 1015 ซับไทย - AnimeLily เว็บดูอนิเมะ",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://animelily.com/watch/j9phBDUUxt/"
+            }, {
+               "date_added": "13283506908109751",
+               "date_last_used": "0",
+               "guid": "b063ecd8-df05-4d49-83ae-5961fd42e45d",
+               "id": "20",
+               "name": "Hanamaru Youchien ตอนที่ 3 ซับไทย | Hanamaru Youchien ฮานามารุ อนุบาลเด็กดีนะจะบอกให้ ตอนที่ 1-12 ซับไทย | AnimeZaku ดูการ์ตูน อนิเมะออนไลน์ พากย์ไทย ซับไทย",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.animezaku.com/play/32109/"
+            } ],
+            "date_added": "13333362313135887",
+            "date_last_used": "0",
+            "date_modified": "13333898638058076",
+            "guid": "812e6bf6-f45f-4297-9c3c-f47ed74035d2",
+            "id": "16",
+            "name": "Cartoon",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13283624016818294",
+               "date_last_used": "0",
+               "guid": "1c457d2a-3361-490c-a55e-84ebaab28356",
+               "id": "22",
+               "name": "Problems - LeetCode",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://leetcode.com/problemset/all/?search=triangle&page=1"
+            } ],
+            "date_added": "13333362330503133",
+            "date_last_used": "0",
+            "date_modified": "13333362330503133",
+            "guid": "2df8e76d-66e5-403b-a876-abce8aafd53d",
+            "id": "21",
+            "name": "Coding",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13291981351326832",
+               "date_last_used": "0",
+               "guid": "4dd25317-8812-4392-9af6-8f03b79963d8",
+               "id": "24",
+               "name": "Scratch - Imagine, Program, Share",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://scratch.mit.edu/"
+            } ],
+            "date_added": "13333362358776341",
+            "date_last_used": "0",
+            "date_modified": "13333362358776341",
+            "guid": "263d63c0-ad1f-4320-9809-f39bee7ad268",
+            "id": "23",
+            "name": "Programing",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13289639974968879",
+               "date_last_used": "0",
+               "guid": "1e82ade2-6aed-4ca8-a0fa-bf0168022cc8",
+               "id": "26",
+               "name": "Free Vectors, Stock Photos & PSD Downloads | Freepik",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.freepik.com/"
+            }, {
+               "date_added": "13286405547442068",
+               "date_last_used": "0",
+               "guid": "0d04b61c-8a07-432f-a6cb-838b10e4108e",
+               "id": "27",
+               "name": "Wolfram|Alpha: Computational Intelligence",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.wolframalpha.com/"
+            }, {
+               "date_added": "13286405534478797",
+               "date_last_used": "0",
+               "guid": "f7c349a6-7fc5-4938-aa13-6f7926b59271",
+               "id": "28",
+               "name": "lim (sin x - x)/x^3 as x->0 - Wolfram|Alpha",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.wolframalpha.com/input/?i=lim+%28sin+x+-+x%29%2Fx%5E3+as+x-%3E0&lk=3"
+            } ],
+            "date_added": "13333362388920211",
+            "date_last_used": "0",
+            "date_modified": "13333362388920211",
+            "guid": "77ce054d-3ca4-44eb-b3f5-8061ade4638f",
+            "id": "25",
+            "name": "Helping Tool",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13283845788658578",
+               "date_last_used": "0",
+               "guid": "eb98997c-3ad9-4b33-b13a-c94e2e4e7771",
+               "id": "30",
+               "name": "ช้อปเลย เดี๋ยวของหมด!",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.bnn.in.th/th/p/asus-notebook-tuf-gaming-a15-fa506ic-hn011w-eclipse-gray-a-4711081426950_d51j9j?gclid=Cj0KCQiA2NaNBhDvARIsAEw55hi05G0SlIB3k2TX_nVOfNOreKQ92Q0v_JhZ3pYSwz1HukRMCwmhQtkaAn5REALw_wcB"
+            } ],
+            "date_added": "13333362413152731",
+            "date_last_used": "0",
+            "date_modified": "13333362413152731",
+            "guid": "9ba95437-9e16-438d-93a5-2028d6109a43",
+            "id": "29",
+            "name": "Device",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13334165842406291",
+               "date_last_used": "0",
+               "guid": "313306b3-eb75-4ff6-934d-658a781037ea",
+               "id": "32",
+               "name": "(57) What falling in love feels like | Playlist | - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=SoQjuRhqt1Y"
+            }, {
+               "date_added": "13333097082418503",
+               "date_last_used": "0",
+               "guid": "911f2d7b-b62d-4724-9e6f-08412a6a247e",
+               "id": "33",
+               "name": "(16) รวมเพลงน่ารักๆฟังเพลิน [cute song] - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=kmheI8BksA8"
+            }, {
+               "date_added": "13330803689715455",
+               "date_last_used": "0",
+               "guid": "4febcc6e-9273-4b3c-9140-5c0dadaf34ba",
+               "id": "34",
+               "name": "(45) 🔴🧸LIVE ((( สด ))) ฟังเพลงเพราะ ออนไลน์ 24 ชั่วโมง〚เพลงรัก เพลงใหม่มาแรง เพลงฮิตติดชาร์ต〛 - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=WHEGj3fT5cM&t=2400s"
+            }, {
+               "date_added": "13329164582816857",
+               "date_last_used": "0",
+               "guid": "48afbb36-7af5-48f4-917a-1d57cc50bb05",
+               "id": "35",
+               "name": "(5) Chill Music Playlist 🍂 Chill songs when you want to feel motivated and relaxed ~ morning songs - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=4as2bcQOj00&t=855s"
+            }, {
+               "date_added": "13329149185342038",
+               "date_last_used": "0",
+               "guid": "f253b058-4dad-4b10-b97f-4af84e484e73",
+               "id": "36",
+               "name": "(5) [playlist] รวมเพลงไทยคลั่งรัก ฟังเพลินๆ ♡⋰˚(1 hr) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=BEICLsHSZek"
+            }, {
+               "date_added": "13291365934708169",
+               "date_last_used": "0",
+               "guid": "4ff3cdda-999d-497a-bbbc-2eb601e67522",
+               "id": "37",
+               "name": "(35) เพลง หนอนผีเสื้อ ต้วมๆเตี้ยมๆออกมาจากไข่ | Worm Song - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=CbFa2F08xG0"
+            } ],
+            "date_added": "13333362451792064",
+            "date_last_used": "0",
+            "date_modified": "13334165842406291",
+            "guid": "3f4a58f7-9a66-421c-b329-607782cfa071",
+            "id": "31",
+            "name": "Song",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13293792578022527",
+            "date_last_used": "0",
+            "date_modified": "13293792578022527",
+            "guid": "50d05083-1e8d-4815-995f-0f6546db977f",
+            "id": "38",
+            "name": "movie",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13328978513473402",
+               "date_last_used": "0",
+               "guid": "a30d7abf-4572-48f0-8b04-5b4834089b10",
+               "id": "40",
+               "name": "5 Reasons Why Your Internet Keeps Disconnecting—and How You Can Fix It",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.highspeedinternet.com/resources/why-does-my-internet-keep-disconnecting"
+            }, {
+               "date_added": "13295086569896077",
+               "date_last_used": "0",
+               "guid": "35d0954c-bbe5-4d2f-b99b-1730a7185ca5",
+               "id": "41",
+               "name": "(149) DYnamic DNS (DDNS) คลิปเดียวรู้เรื่อง - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sMMQXW8Hk4s"
+            } ],
+            "date_added": "13333362577103787",
+            "date_last_used": "0",
+            "date_modified": "13333362577103787",
+            "guid": "7145223a-b14d-459b-a56b-fedb3cac88be",
+            "id": "39",
+            "name": "Wifi",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13328724787183206",
+               "date_last_used": "0",
+               "guid": "c585ff59-4123-4590-8502-7052ffb8a2c2",
+               "id": "43",
+               "name": "(7) วิธีใช้ FL Studio 20 - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=rp-0LfeTIZY&t=31s"
+            } ],
+            "date_added": "13333362636840244",
+            "date_last_used": "0",
+            "date_modified": "13333362636840244",
+            "guid": "fabd4dd3-1091-4612-82e1-41f69d7b5695",
+            "id": "42",
+            "name": "About Programing",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13295548775092407",
+            "date_last_used": "0",
+            "guid": "289cc016-18a3-4418-9a6b-2d6e5a2b1865",
+            "id": "44",
+            "name": "(2) Keawarin Nawan | Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/profile.php?id=100009037121195&sk=photos"
+         }, {
+            "date_added": "13293250311920134",
+            "date_last_used": "0",
+            "guid": "34616f7f-dab3-4566-a9ab-0ebd16dd57f5",
+            "id": "45",
+            "name": "แบบสัญญาต่างๆ(จัดซื้อจัดจ้าง)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://office.cpd.go.th/finance/index.php/2016-11-10-08-42-03/2016-11-11-03-07-10"
+         }, {
+            "date_added": "13333489875202855",
+            "date_last_used": "0",
+            "guid": "cec37c47-2f0d-4acc-ac4e-8d09f2d61de5",
+            "id": "46",
+            "name": "37.58",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Gx4iBLKLVHk&t=1254s"
+         }, {
+            "date_added": "13335098496267884",
+            "date_last_used": "0",
+            "guid": "40af9d6f-62e5-46a6-a58a-ac00a0a043b9",
+            "id": "47",
+            "name": "(86) รวมเพลงเพราะ ๆ ฟังชิว ๆ ฟิลคลั่งรัก | Music Duo - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=MBoYz-ttJYQ"
+         }, {
+            "date_added": "13335778728873083",
+            "date_last_used": "0",
+            "guid": "3811184b-760f-4519-9ec1-700f6b2529b1",
+            "id": "48",
+            "name": "Bleach บลีซ เทพมรณะ ตอนที่ 346 พากย์ไทย - FairyAnime แฟรี่อนิเมะ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fairyanime.net/watch/ZUbLUEjZSo/"
+         }, {
+            "date_added": "13336049212287408",
+            "date_last_used": "0",
+            "guid": "d9156ea9-17e3-4cf7-974b-af0dcde52380",
+            "id": "49",
+            "name": "(113) Spring Boot Full Stack with Angular | Full Course [2021] [NEW] - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Gx4iBLKLVHk&t=898s"
+         }, {
+            "date_added": "13338326593806478",
+            "date_last_used": "0",
+            "guid": "72e9fe55-7fd9-4ca9-854e-f494557a0b37",
+            "id": "50",
+            "name": "(178) รวมเพลงเพราะ ฟังเพลินตอนอยู่คนเดียว [Longplay] - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Sg0TnTGCeWs"
+         }, {
+            "date_added": "13340219867183499",
+            "date_last_used": "0",
+            "guid": "920b3646-1c5e-4e4f-8bf4-d033bef8d590",
+            "id": "51",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PHP max() Function",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.w3schools.com/php/func_math_max.asp"
+         }, {
+            "date_added": "13340272290676339",
+            "date_last_used": "0",
+            "guid": "8e5665d9-b818-49d2-a090-9334775d1a21",
+            "id": "52",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home - glot.io",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://glot.io/"
+         }, {
+            "date_added": "13341748637366290",
+            "date_last_used": "0",
+            "guid": "cda99c68-f66c-4f98-965e-cd6e88dca225",
+            "id": "53",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(261) SUPER AMAZING MOIST CHOCOLATE CAKE RECIPE | เค้กช็อกโกแลตหน้านิ่ม สูตรหน้านิ่ม วิธีราดหน้านิ่มง่ายๆ - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=bIvRLl-R1Ho"
+         }, {
+            "date_added": "13345358694273510",
+            "date_last_used": "0",
+            "guid": "8a00d199-53ce-4069-9ce9-e5c19a4fdeb4",
+            "id": "54",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(9) โหลดโปรแกรม PS 2021 ง่ายๆไม่ซับซ้อนเพียง5นาที - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=KCk3o02xBE0"
+         }, {
+            "date_added": "13346136720464687",
+            "date_last_used": "0",
+            "guid": "b80b1318-4a12-4763-ad57-b2a39dd2d43f",
+            "id": "55",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New tab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/"
+         }, {
+            "date_added": "13347290120548219",
+            "date_last_used": "0",
+            "guid": "724c3f8e-0e39-4fd6-80e2-83722d513315",
+            "id": "56",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Can I replace the optane memory with an m.2 crucial ssd on acer nitro 5 AN515-52-593F? — Acer Community",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://community.acer.com/en/discussion/628864/can-i-replace-the-optane-memory-with-an-m-2-crucial-ssd-on-acer-nitro-5-an515-52-593f"
+         }, {
+            "date_added": "13347383522833402",
+            "date_last_used": "0",
+            "guid": "df47a021-77a1-4703-9b6a-498a63a4a90b",
+            "id": "57",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "TUTORIAL: Intel Optane Upgrade to M.2 NVME SSD Samsung 970 EVOPlus - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=VVOVy_g-Y84"
+         }, {
+            "date_added": "13348256886801712",
+            "date_last_used": "0",
+            "guid": "076d0333-4afd-4394-94f3-0955a043281e",
+            "id": "58",
+            "name": "(25) ROGGT: แนวทางการอัพ Stat & Skill Archbishop Adoramus 185/65 - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=hzi9Gn-v-LM"
+         }, {
+            "date_added": "13348256903610680",
+            "date_last_used": "0",
+            "guid": "cca9f5cf-cdf7-4856-8113-07c331380883",
+            "id": "59",
+            "name": "(25) ROGGT: แนวทางการอัพสกิล Arch Bishop ฉบับ Rebalance 1st & High Class - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=3UCGC2legqc&t=455s"
+         }, {
+            "date_added": "13349114728012220",
+            "date_last_used": "0",
+            "guid": "bfb27231-d30f-429f-a7e4-e488c0a5e35c",
+            "id": "60",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(47) RO GGT:EP 97 ตัวตึง MC สายฟรี ปั่นกิจ3ปีชั้นไหนดี - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=qvDCqIcrh9g"
+         }, {
+            "date_added": "13349114731492726",
+            "date_last_used": "0",
+            "guid": "9924eee9-81f2-4804-9e6f-5389fada9bd2",
+            "id": "61",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(47) Ro Gravity: แนวทาง Mechanic สายขวาน Axe Tornado ฉบับมือใหม่ สเตตัส สกิล ของสวมใส | Kamonway - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=yXiimFBo_2I&t=178s"
+         }, {
+            "date_added": "13349114735228505",
+            "date_last_used": "0",
+            "guid": "c245fef7-657e-4c3a-80ce-a6f015b9545e",
+            "id": "62",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(47) [Guide] Mechanic Axe Tornado Illusion of Labyrinth - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=RpHLIwN_nJY&t=50s"
+         }, {
+            "date_added": "13349114736508043",
+            "date_last_used": "0",
+            "guid": "a655f356-721f-47ad-b150-5222a532ddf9",
+            "id": "63",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(47) [RO GGT] Mechanic - เปรียบเทียบ Tornado Axe vs Patent Avenger คุ้มค่าแก่การเปลี่ยนไหม - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=7WgzH9U0h_M"
+         }, {
+            "date_added": "13349179810828959",
+            "date_last_used": "0",
+            "guid": "65d4ab86-71d5-4f68-a43e-72b344940f5b",
+            "id": "64",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(48) ROGGT : เทคนิคการเล่นแมคคานิคปั่น Axe Tornado - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=b2eutZUgXNg"
+         }, {
+            "date_added": "13349206199920631",
+            "date_last_used": "0",
+            "guid": "41c8228f-8e8d-4aaf-823f-0351b2ec2302",
+            "id": "65",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mechanic Guide - WhiteBearZ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.whitebearz.com/mc-guide"
+         }, {
+            "date_added": "13349540983300964",
+            "date_last_used": "0",
+            "guid": "04fd138e-ba1b-4acf-b994-88a4e2f6ee78",
+            "id": "66",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IN-S002 แบบฟอร์มสมัครงานสหกิจศึกษา PDPA-65.pdf - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1GgaoIMcwYn8ZGKJPKLdWZ0NZ1ouSxoQS/view"
+         }, {
+            "date_added": "13349540985125789",
+            "date_last_used": "0",
+            "guid": "c7405728-9c47-4632-8a9a-893b1f976455",
+            "id": "67",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "แบบฟอร์มการยื่นใบสมัครงานนิสิตสหกิจศึกษา รอบที่ 1 (สาขาวิชาวิศวกรรมซอฟต์แวร์ ปฏิบัติงานวันที่ 4 มิถุนายน พ.ศ. 2567 ถึง วันที่ 27 กันยายน พ.ศ. 2567สาขาวิชาปัญญาประดิษฐ์ประยุกต์และเทคโนโลยีอัจฉริยะ ปฏิบัติงานวันที่ 2 พฤษภาคม 2567 ถึง วันที่ 29 ธันวาคม 2567)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSepbQi0oIHtLMQpNJyFI2zElNHGV0J4HYWP4-qsGm92o5RdWw/viewform"
+         }, {
+            "date_added": "13349540986581025",
+            "date_last_used": "0",
+            "guid": "cec0d5a3-5e91-46e4-a6da-f839464211de",
+            "id": "68",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IN-S003-แบบอนุญาตให้นิสิตไปปฏิบัติงานสหกิจศึกษา.pdf - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1KsyqzmfQcUQXGVL0Ne3zJfHYx-q58wzs/view"
+         }, {
+            "date_added": "13349869397020791",
+            "date_last_used": "0",
+            "guid": "7e25614b-5523-4ed7-90b7-d13a756e2e9e",
+            "id": "69",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(60) Generate Year Month Day Combinations in Power BI Report using Power Query Date ToText Function - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=EtANwBVPIXQ"
+         }, {
+            "date_added": "13349885168097988",
+            "date_last_used": "0",
+            "guid": "a33488f6-5219-4a7c-aeb4-379399c706bd",
+            "id": "70",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Folder - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1H8Xf4cKrGXU4pZ6cwB58GGuM3_4y9-6K"
+         }, {
+            "date_added": "13349968755873036",
+            "date_last_used": "0",
+            "guid": "d70236a5-992d-4413-b276-0e0c3ca2896c",
+            "id": "71",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Instance - iRO Wiki",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://irowiki.org/wiki/Instance"
+         }, {
+            "date_added": "13355868222238124",
+            "date_last_used": "0",
+            "guid": "17979779-0757-48c5-ad49-32096c4f2771",
+            "id": "9",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13355868222238036",
+            "date_last_used": "0",
+            "guid": "1843517c-c447-46dc-8c4b-f6cbde985b25",
+            "id": "8",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         }, {
+            "date_added": "13355868222237463",
+            "date_last_used": "0",
+            "guid": "8a7a1430-65fd-4777-b4c0-ccabe772e387",
+            "id": "7",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=246814"
+         } ],
+         "date_added": "13355868222022519",
+         "date_last_used": "0",
+         "date_modified": "13356464630620766",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13355868222022520",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13355868222022522",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCHjtn5qOAQAAEgAqGGdGQUVVNGNGMmNMUEtpMUpvTUVoNWc9PUgDoAYMErABCEcSqwEKHEVsd1NsSnBuMEErU1BVWmZ0a2FJbHlVWWJlWT0SJGQ3MDIzNmE1LTk5MmQtNDQxMy1iMjc2LTBlMGMzY2EyODk2YxgAIAIoAjCmnPzU6TE4rb67u9ExQJ/z+9TpMUocZkFSVnNRR1l4ZHBMZmRZQXo4cnBzY2VSc3NRPVonIiX/////AAAACOxUdzZZSHZRK2YzSjBEanBodm9nSkl2clkwSDA9ZeRg6OwSsAEIRRKrAQocY200QVl4N0MwSHUrdjIwdlZDUC9rTHNGM3hjPRIkN2UyNTYxNGItNTUyMy00ZWQ3LTkwYjctZDEzYTc1NmUyZTllGAAgAigCMLCc/NTpMTjRwq6N0TFAn/P71OkxShxpYzExQ0JGWDQreUFDdGg2OE55YUZRdHlreWM9WiciJf////8AAAAIsUVvYlFvTHU2aStOQmlFUjN0bVMxaW1ieHhwdz1lOPk5MxKvAQhDEqoBChxOOHQ2VjV2WUlGZzdMTlRpV1BpMHdDNEpESFk9EiRjNzQwNTcyOC05YzQ3LTQ2MzItOGE5YS04OTNiMWY5NzY0NTUYACACKAIwp5z81OkxOIi+vu/PMUCe8/vU6TFKHHhUam1vdDZFTFlheTJYSmFyZEtCY21Ma2xzWT1aJiIk/////wAAAAgrTk9Cd0JVYmkvSUd5ZjIzMnhTaHE1YmtBdjQ9ZaOtHF8SsAEIRhKrAQocQWkxY3ZsckVLQk9pR1NGVW5RaUxwa1I5VmNJPRIkYTMzNDg4ZjYtNTIxOS00YTdjLWFlYjQtMzc5Mzk5YzcwNmJkGAAgAigCMK+c/NTpMTj+1M2T0TFAn/P71OkxShxNZHcxM0pMYk5KSVdhNjk2SFc1V2RiY245Rms9WiciJf////8AAAAI2Gl0L1l3RG4xb1R0bDlCb0RYS29hYnRhcUN4RT1l+pHe2xKwAQhCEqsBChxUM1NKVHdxbllpM1N5VTdVaytCWUgxREFjcnc9EiQwNGZkMTM4ZS1iYTFiLTRhY2YtYjk5NC04OGE0ZTJmNmVlNzgYACACKAIwsZz81OkxOOy9vu/PMUCe8/vU6TFKHDJHUEJUNjNTVU0yVGlMUHhGU0tibU9JQkx1ND1aJyIl/////wAAAAf+RFhBVWJQblRkRmQrMW1iR1R2N2tNK04zV0NnPWW6CixRErABCEASqwEKHFJKbWc0TGRPaXllUGtDMFQ4V090MEdBM3FUYz0SJDY1ZDRhYjg2LTcxZDUtNGY2OC1hNDNlLTcyYjM0NDk0MGY1YhgAIAIoAjCrnPzU6TE4sJSiw84xQJ3z+9TpMUoceENlQ2ZGd2FGa3g5QU1vblZBK3JtckZESEtFPVonIiX/////AAAAB/tUZko4MmVGYzBwRkxORWtDd3RZenBJaHFSWTQ9ZTj5OTMSsAEIQRKrAQocRWIranFKRjdvcFBOUk9nT1BmdGMzNXVzYTgwPRIkNDFjODIyOGYtOGU4ZC00YWFmLTgyM2YtMDM1MWIyZWMyMzAyGAAgAigCMKKc/NTpMTjg7OzPzjFAnvP71OkxShx5elpKaTVvVGFJeFpJejAzbFZMYnNnMlZETGM9WiciJf////8AAAAH/VIxY3l0cW5YaEtRSStLNXYvSk1iZUF3cWV0QT1lfdVf1hKwAQg/EqsBChxTL1dYZWprWVdXSVcrRUJYQk1iVEU5TlJ6SGc9EiRhNjU1ZjM1Ni03MjFmLTQ3YWQtYjE1MC01MjIyYTUzMmRkZjkYACACKAIwqZz81OkxOJC0nqTOMUCd8/vU6TFKHFZsYzVYTU91MW5lUnVJMEFBMERWNG9WM0pSST1aJyIl/////wAAAAf3Sk92UlJkTCtWeE5vS1VaRW42RzlhYmtTVlRBPWU4+TkzErABCD4SqwEKHFhTaWRYcXk4WEVHOEN6eEcwdERmYmlBMUk1WT0SJGMyNDVmZWY3LTY1N2UtNGMzYS04MGNlLWE2ZjAxNWI5NTQ1ZRgAIAIoAjCcnPzU6TE4lKCepM4xQJ3z+9TpMUocaUxYZE10MjRjOHhURks0SGN6N3hpa1NWU0YwPVonIiX/////AAAAB+5VVmJnRXJqZUFVY0MzTzhRejVnQnI1c0lmN0k9ZTj5OTMSsAEIPRKrAQocb0Y2eDFzWVpuVkN4THhrbnViSG1URXVMMjlBPRIkOTkyNGVlZTktODFmMi00ODA0LTllNmYtNTM4OWZhZGE5YmQyGAAgAigCMKWc/NTpMTjHjJ6kzjFAnfP71OkxShxOS1hMN085clBPT2pxOUZVRWhEb0dyVFhRUkk9WiciJf////8AAAAHuTg4ZjBubVQrRGtGdTlnK283Y21KT3JJYWltdz1lOPk5MxKwAQg7EqsBChxBYmUzcmF2OUdBdFl2QVV3cjlFeU9lb2VwVWM9EiRjY2E5ZjVjZi1jZGY3LTQ4NTYtODExMy0wN2MzMzEzODA4ODMYACACKAIwo5z81OkxONytmIvLMUCd8/vU6TFKHFR1Slc5dlExbnpXOEpLRUFIMk5Nc2pPUTFoaz1aJyIl/////wAAAAb9YnJ2ampYTEtOcmpTU2d3Y0VrQXEzZTg4dEtFPWU4+TkzErABCDYSqwEKHEtKR2xKcFlpSlpXc2hLSkVxR3Q2dU85N1h4VT0SJDhhMDBkMTk5LTUzY2UtNDA2OS05Y2U5LWU1YzE5YTRmZGViNBgAIAIoAjCgnPzU6TE4jNubpcAxQJzz+9TpMUocL1lBMkZEMEhyM0NsMFgyRzFhMiszWG1hYk4wPVonIiX/////AAAABr1TL3FmMXVxNGtPbEoxMEtDUWJqRWVSU1h1aU09ZTj5OTMSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMGQwM2ZmMjAtNjJjZi01NjRjLWE2N2QtMTBkYzBmM2M4ZjczGAAgACgAML6MusPsLjiiip+T6i9Aooqfk+ovShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKwAQg4EqsBChxCc2tVWkxuOStqSC9NOFBOUDh1WmpMWnFSd1U9EiQ3MjRjM2Y4ZS0wZTM5LTRmZDYtODBlMi04MzcyMmQ1MTMzMTUYACACKAIwqJz81OkxOOvHmL7HMUCc8/vU6TFKHHpkZEdNdE93bGdOdVEyNUM4NDBzNmltekpVMD1aJyIl/////wAAAAbvMko2ZlZ1WHYzZGhIQXIrYVluendQYlh4bWZFPWX4JtF2ErABCDISqwEKHGZrNnk3MG1kd1MyWWdJT0w4eXFLek9SODVyZz0SJDcyZTlmZTU1LTdmZDktNGNhOS04NTRlLWY0OTQ1NTdhMGIzNxgAIAIoAjCunPzU6TE4tqKGjKYxQJvz+9TpMUocZFNKUWRsaVhVMzBXWGpSTDVmZktDQWdGc1FjPVonIiX/////AAAABftQVWZQQWJqSkVjQ3c0aFBrM1gxTWViMXBnak09ZTj5OTMSsAEIMRKrAQocZ0ZEVEY0WXVOS2wyeGVqd0tYTWp0ZjhUOGljPRIkZDkxNTZlYTktMTdlMy00Y2Y3LTk3NGItYWYwZGNkZTUyMzgwGAAgAigCMLOc/NTpMTjn+o3OnTFAm/P71OkxShxsZXdIbGhxcnhPM2ZyK1JJSTB3VklQQm1EL2s9WiciJf////8AAAAF90JXQzNDV05JT2hXeG1vUzduRGpPTHNoU3p1MD1lOPk5MxKoAQgaEqMBChxDK3hLcmYveFdIT0laTDVYaDlXN0NkUUZES009EiQxZTgyYWRlMi02YWVkLTRjYTgtYTBmYS1iZjAxNjgwMjJjYzgYACAAKAAw9eb6zJMxOMvvutzwL0DL77rc8C9KHEp5UWRHcGIzY0pEK0xndnZYWUY3OVYvSk84MD1aHyIdHFlPblhybmdHZGkxMStIay9YN2lTNVVNTU9YYz1lLImOSRKwAQgzEqsBChxhdEl1WVNsTWMvWERLOFVtOHZJZzBMNjFJczQ9EiQ5MjBiMzY0Ni0xYzVlLTRlNGYtOGJmNC1kMDMzYmVmOGQ1OTAYACACKAIwrZz81OkxOKjA6pKtMUCb8/vU6TFKHFhSU21EcldOaGtreDFDTFdmUXpycXdscWZrOD1aJyIl/////wAAAAX9VDQ5Mk51ZDA3dmdCN0g1YjFvRnRGNVZpaVZNPWWjK1kjErABCC4SqwEKHEszVktuTFJheDl6KzBuZk10UWJNVWZCdlFvQT0SJGNlYzM3YzQ3LTJmMGQtNGFjYy1hYzRlLThkMDlmMmQ2MWRlNRgAIAIoAjCsnPzU6TE4y7LciZQxQJrz+9TpMUocMERlSm5YeUIrRk1ZaFhqOVhUQ2VEUHhQcW9VPVonIiX/////AAAABbt1QTlXbkk2KzZ1K0RsVnRRNDc0UTdxTkNUbUk9ZTj5OTMSsAEIMBKrAQoca2hHOFlrOEM0KzA5ZHpYWUVUcFJMVS9jZmI0PRIkMzgxMTE4NGItNzYwZi00NTE5LTllYzEtNzAwZjZiMjUyOWIxGAAgAigCMJ+c/NTpMTiUn5HNnDFAmvP71OkxShx0cGNrbFl2Z2UwUkJ0MTRpOHFlTlhCMTlDWjQ9WiciJf////8AAAAF7lh0VUcwaE1DaGtGbG1iMDZKNnVKM2tLb0RsST1lzX6pQhKvAQgsEqoBChw1eG5ueFovaWl5U1lUaXBHSVhhcXZ4NldUaG89EiQyODljYzAxNi0xOGEzLTQ0MTgtOWE2Yi0yZDZlNWEyYjE4NjUYACACKAIwnpz81OkxOL+3/92GMECZ8/vU6TFKHGhmRTliNGl1eGtVeWttKzMvakNCelRFS0d2OD1aJiIk/////wAAAAUvQ2E2Z3BZUkZNRFFqdjRTMnprbTJZNTIwNTg9ZcSRdsUSqwEIKhKmAQocQlNUS3EzdGpGeVBOdy9jdEpjR0I3K2ZsNEZvPRIkZmFiZDRkZDMtMTA5MS00NjEyLTgyZTEtNDFmNjlkN2I1Njk1GAAgACgAMOGXic2TMTiFr4bNkzFAha+GzZMxShx1eVpzbStwS25qcUwxZjVmWFRPcVljdFhBR2M9WiIiIP///9kwVkY3MUNWenBPMUw1TElIN2Y1RjZDeXpSbUE9ZQAAAAASpwEIKRKiAQocVnRMSGhqN3E4bU53TWxZaEJMMzUzYWUzL2JjPRIkMzVkMDk1NGMtYmJlNS00ZDJmLWI5OWItMTczMGE3MTg1Y2E1GAAgACgAMNfng82TMTjG08yBhTBAxtPMgYUwShxQZnBFc3RGQ2hDMnRZSk8rYkpaamcrSHhGa3M9Wh4iHCt4NGV6WHNzR1BWWVRKd0YyMTFjT3RCTmJnST1lOPk5MxKnAQgWEqIBChxaUDdKYnVOVVhTaDZCSWxxYzNNV1RFZTNmRzA9EiQxYzQ1N2QyYS0zMzYxLTQ5MGMtYTU1ZS04NGViYWFiMjgzNTYYACAAKAAwuNz0zJMxOJGQn5PqL0CRkJ+T6i9KHEc1VktzeU05elY2TmlaU0F5U0thbkVZc2tmcz1aHiIcUFhDM1V1Qi9rSFhDNFgwbkZGeVBIV1dxQUdjPWWmJz3bEqsBCCcSpgEKHFhhS1VydmVPbEI3ODhmRVZ3UEJ5YThxcUhRYz0SJDcxNDUyMjNhLWIxNGQtNDU5Yi1hNTZiLWZlZGIzY2FjODhiZRgAIAAoADDW54PNkzE48tyCzZMxQPLcgs2TMUocOXZDdmtqZFI5WmRFZzNrMnZJUHFCVXhFTVNjPVoiIiD///+0UnpCTmZSdVMzSkcwdUswUHRwN2VHMkswMWlrPWUAAAAAEqgBCB0SowEKHHlISGhUcVdqZER2Qmo0aVpsNUtSNklzSzJJST0SJDliYTk1NDM3LTllMTYtNDM4ZC05M2E1LTIwMjhkNjEwOWE0MxgAIAAoADDMnfnMkzE4g9z4zJMxQIPc+MyTMUocc2RYUEZyYzVWTnY0TmNwM21kOWtrWHdCUjJnPVofIh3sbjh2MXZ2OFhXQmVja25HYWdWTHFkRGV5MllZPWUAAAAAEqgBCCgSowEKHHRTbTRzZ2NDeXhsd0hOZzBEOGhkYkc2QkNHUT0SJGEzMGQ3YWJmLTQ1NzItNDhmMC04YjA0LTViNDgzNDA4OWIxMBgAIAAoADCJ0onNkzE44PDEooMxQODwxKKDMUocT0VkaVozQlVwUGxXVndZQnE2OGJhUGdWd3RjPVofIh0VUXBUTjZqT1A2aFlmdjJUdmNxeXYxSTVqb0tjPWWwKMj/EqcBCCUSogEKHEo0Yk91cE1QT3lEcWc3eG1Gb1Q0SHRrZmdjMD0SJDRmZjNjZGRhLTk5OWQtNDk3YS1iYmJjLTJlYjYwMWU2NzUyMhgAIAAoADD86/vMkzE4gpC7k/cvQIKQu5P3L0ocUlVJTU1MMTlqOXR6UFNsOUY1U0NIMjlMejJBPVoeIhxLc2VEWDRBUkVWdjNwam85ZmdvbTlMUmxuYXM9ZTj5OTMSqAEIJBKjAQocVElsOTF1VEJBdXoyYlgzT3F1SmRkRkVmOGxRPRIkZjI1M2IwNTgtNGRhZC00YjEwLWI5N2YtNGFmODRlNDg0ZTczGAAgACgAMPvAis2TMTiO9vXzgzFAjvb184MxShxibUdwNFBtR1ptbWJzeU5ia056RmVyMUY0R009Wh8iHSVLdERqaXB3ckkrYnl2ZmFOVFhxWXcrNCtoMEk9ZTj5OTMSqAEIIhKjAQocM2syOE5WUmk2eU9HRlR0aUprSytWelhFeXo0PRIkNGZlYmNjNmUtOTI3My00YjNjLTkxNDAtNWMwZGFkYWYzNGJhGAAgACgAMJyCi82TMTj0yuyIijFA9MrsiIoxShw5QzhlZnVqbllMVElVZDB4bS9BMjQ4TVNoaGs9Wh8iHQlaV1Y4aXg1MzhMdXR0eVV3WWhjSWRYR09LOEk9ZTj5OTMSqAEIEhKjAQocU3VhNE5zZkJNNXI3cjNBcllwWVp2WGdnZTBNPRIkYjFlNTE3ODctNzcyNS00YTUxLWE4ZmYtNWQyNGVmNzdkZjJlGAAgACgAMNKfoMvCMTjKj4K7gjBAyo+Cu4IwShxaaVQwSEY4bHlZdE0xNUF0cFJEMkR2Z2JpRkE9Wh8iHRZIekE5TGRRZzFvWTBuZi9Wd0lpbXBBcUhWeTA9ZeyIAckSpwEIHBKiAQocZ0FBWWZYcStwOEJQeU1Oa0grUDlNNGZFZXhFPRIkZjdjMzQ5YTYtN2ZjNS00OTM4LWFhMTMtNmY3OTI2YjU5MjcxGAAgACgAMNq4+cyTMTium5+T6i9Arpufk+ovShxPekFDNDIzSVlVa2xsa0R0ZUZ2cm1IT2dDUGs9Wh4iHHhWUGUyUFBUdTY4REQvUFhHU0s2RG1CbHNPVT1le1H5/hKoAQghEqMBChwrdjdBM0hzcFJiRUhFY1ZBTHMrNDRkWDdDUGs9EiQ5MTFmMmQ3Yi1iNjJkLTQ3MjQtOWU2Zi0wODQxMmE2YTI0N2UYACAAKAAw7IOMzZMxOLSZts6SMUC0mbbOkjFKHHNOY0x5WUZadEFNU1RaT0twMS8yRlBseWZJND1aHyIdBGVMNWVwUFNsTE9tbzFqVHg1ZXk3bkszWEllTT1lOPk5MxKoAQgREqMBChxva0s5amswaG5BM3VUQlhCMUMvT0ZQUFU3Wk09EiQzNDVjYzU4MS0yN2ZjLTQ5MmItYjZkYy1lMTM1MDY1ZGJhZGIYACAAKAAwm7a839wxOPWh0cyVMUD1odHMlTFKHGZFeEd2c09PR2RJQUVObCtRMFFOc1d4WXdKST1aHyIdC2Nrd1k0bE9DTEhVSUhjRFYyck12cmRrUkdjYz1lzX6pQhKoAQgTEqMBChxqQzJUcXdwbmR1M2VwMlZUdExnQUlOeGlCelU9EiRmOTVmYjZkYS1kOGMyLTQwMTgtYTIwMi1kOTI5YWYxYzQzNTUYACAAKAAw+/+d2aUxOO6kyaiGMEDupMmohjBKHENDbFZNdTRPZ3dIUExDeXNGRG9rVlpqbGh3OD1aHyIdLHhTZVBpM1R3NnN1UlVOeFpXMkJDRUp2aC9YST1l7IgByRKoAQgfEqMBChxib2Ywc2M5NWtldnB6clNHVkJaSlA4bVJEVzg9EiQzZjRhNThmNy05YTY2LTQyMWMtYjMyOS02MDc3ODJjZmEwNzEYACAAKAAww8D7zJMxOLSJ+8yTMUC0ifvMkzFKHEpvZ2JMSkFrQXhkMXEzUmxYK1c1VjdHVHdscz1aHyId9WMxMExJbnpaWFpIS0x5S2lJY0E1Y25Dbk5GOD1lAAAAABKqAQgmEqUBChxFS1FtVUg3cjFpTXF5L0FSRTBRYW9IWnp2blk9EiQ1MGQwNTA4My0xZThkLTQ4MTUtOTk1Zi0wZjY1NDZkYjk3N2YYACAAKAAwuPjJmIAwOMrbyZiAMEDK28mYgDBKHHltOTY4UVVaRTdXYXJpL0h1UWNrV2tnZzVZVT1aISIf////aXA5QVhVVS8rQmtqTkxPam5PSnlVRHhpcEw4PWUAAAAAEqcBCBUSogEKHDgzVmRaZUo2R0xnbVAxLzFNTTRUbW5Wc05YND0SJDJkZjhlNzZkLTY2ZTUtNDAzYi1hODc2LWFiY2U4YWFmZDUzZBgAIAAoADDdtvTMkzE4wdjzzJMxQMHY88yTMUocaVQ3eWtQVGZKbThpRUlGUUhNSEdLSXk0SzF3PVoeIhxsNkNwUVRDUWtHQnpjV0RIb2RJMFYrMlA4azg9ZQAAAAASpwEIHhKiAQocK0tMUm1aSmYyS0RnYjFLYXgvR3VBRU1GUURNPRIkZWI5ODk5N2MtM2FkOS00YjMzLWIxM2EtYzk0ZTJlNGU3NzcxGAAgACgAMITg+cyTMTidkZ+T6i9AnZGfk+ovShwxODN6RVBBWko1UWN2ZUdYcWpDMVBNak9zUFE9Wh4iHDRRdEQwMStlUk56clF2QTg1WTR5MGduajUxaz1ldmZYHBKoAQgjEqMBChxNUmY1RzJJUFJKYnpYN29VZGh0a3pwNFlVTGs9EiQ0OGFmYmIzNi03YWY1LTQ4ZjQtOTE3YS0xZDU3Y2M1MGJiMDUYACAAKAAw9O+KzZMxOL/eofuDMUC/3qH7gzFKHGphbmZPaW9PS0dMVEV6Uk5ENXMrUFJGc3hjYz1aHyIdEkJ1bVNzV2VCRVpWZnNiRVFpczdkc1JDbng5RT1lOPk5MxKvAQhEEqoBChwvTGZmMERmV09LcGtTRlJpcVlBWkI1ZEo2c1U9EiRjZWMwZDVhMy01ZTkxLTQ2ZTQtYTZkYS1mODM5NDY0MjExZGUYACACKAIwnZz81OkxOP/Wvu/PMUCf8/vU6TFKHEk3UXdJMzhkcFpqbmNWa0RrTkwzQlNWSk9WOD1aJiIk/////wAAAAhiSnIyK1Y3ODk3ZXkyeUhPd3kzbGVBVzUrK0k9ZboKLFESsAEINBKrAQocMWZXYUtwYWZhZTNyaDBQeFJzRk5JdGx0RWQwPRIkOGU1NjY1ZDktYjgxOC00OWQyLWEwOTAtOTMzNDc3NWQxYTIxGAAgAigCMKGc/NTpMTjcmOqrrTFAm/P71OkxShxHemRYL3hoOG9saFpkOFRlRnIrallGL1BrOVk9WiciJf////8AAAAF/nNIUWIvNjJWc3pUSHBMTXFQL0YzMkh6a3RCST1lGS3aRxKnAQgbEqIBChxmSlNVRzlyZGY5ZXdhSjJERGg2U0dFOHcvc0U9EiQwZDA0YjYxYy04YTA3LTQzMmYtYTZjYi04MzhiMTBlNDEwOGUYACAAKAAwps35zJMxOKucn5PqL0CrnJ+T6i9KHG1ESG1FVEFORldVL2V4bGFUWjlFTmsvVERUaz1aHiIcOFo3U09xNnJhSmFEWXgrZ0FqUUxqRzRxM0U0PWV7Ufn+ErABCDkSqwEKHE42NnY2M1JCbG9KS25IR1lsS016ZGJ2MXlMWT0SJGRmNDdhMDIxLTc3YTEtNDcwMy05YjZhLTQ5OGE2M2E0YTkwYhgAIAIoAjCknPzU6TE41rTd6scxQJzz+9TpMUocY0JUVnc0S0d4Q1FndlZTZzc1NFM5azA2ZUFZPVonIiX/////AAAABvdlTWJVdVQ3WlJidUtuaDV3VFkrQkFtLzd1TFU9ZTj5OTMSrwEILRKqAQocRzdoc3VzOE5QRE54MGhURkE3R2pGWlhxZjF3PRIkMzQ2MTZmN2YtZGFiMy00NTY2LWE5YWItMGViZDE2ZGQ1N2Y1GAAgAigCMLKc/NTpMTiUuICW/i9AmfP71OkxShxVYllNb3VuTXdZbXVnVGdKZEtMZzNhaGFvUEk9WiYiJP////8AAAAFdng3U1V1TjE5VzVwaWhHc2FVK3ZEc2U0c29VPWWQ4CA+ErABCDcSqwEKHGFURkhTNWpYUVVxQVoxZThHUDNydzZnOVF4QT0SJGI4MGIxMzE4LTRhMTItNDc2My1hZDU3LWIyYTM5ZGQyZDQzZhgAIAAoADCJypqYwzE48sqamMMxQPLKmpjDMUocRDVWNWxpZXdRU2Y0Y0ZiZGFMblV0QXc5YmVVPVonIiX/////AAAABt5VSmpZK0VTYlRVckxIaGozaTlIM1FCTm5EZDQ9ZVTVYD4SpwEIGBKiAQocKy9HUWZhNi90ZTI5d1pyNWZnb2hzQzFKclFjPRIkNGRkMjUzMTctODgxMi00MzkyLTlhZjYtOGYwM2I3OTk2M2Q4GAAgACgAMJaY/MyTMTjXovW4+S9A16L1uPkvShxobndkNmdMZlVSTExYMTRtYXA3WGVwRFhTMnc9Wh4iHElnelU4UXpRMjRHUDNmbG9PTmlxUzhuQjYzQT1lcg7TWxKvAQg8EqoBChxzUFJKd0drenhSbk8vc0gzZlFQOTA3dldaaXM9EiRiZmIyNzIzMS1kMzBmLTQyOWYtYTdlNC1lNDg4YzBhNWUzNWMYACACKAIwm5z81OkxOIn0naTOMUCd8/vU6TFKHEx4SWE2Z3djeVZDMjYyMlBmYmRKNmUrVnhqcz1aJiIk/////wAAAAdyc3I0K3ZVdW9sdmUxbTIvTkFCR3k5RXgyY2M9ZTj5OTMSqAEIFxKjAQocekZ3cWJlVUpXMUpWRnBTcVM3UUtiUDhLTjUwPRIkMjYzZDYzYzAtYWQxZi00MzIwLTk4MDktZjM5YmVlN2FkMjY4GAAgACgAMMfq9cyTMTijsvXMkzFAo7L1zJMxShxwaVprRjQvL09vdHRZdmd5QndhZ0dHNDc4VVE9Wh8iHbVRYmNhOXRscndaQWtnc0RrdWllVFdSZW5EK1k9ZQAAAAASqAEIIBKjAQocbkZBWDdhN1NOa2FwSUVZWkhIMDFpZ0psRlNrPRIkMzEzMzA2YjMtZWI3NS00ZmY2LTkzNGQtNjU4YTc4MTAzN2VhGAAgACgAMPOvhsyWMTjOjYbMljFAzo2GzJYxShwwZC9SRmJ2UVFGVHl4OG8zTjlDeEdXZEhCV0k9Wh8iHQJCa01iM2pzbnN4czUraC9tWmorakpNQjhJRGs9ZTj5OTMSsAEIOhKrAQocSUpabHdTeUVwZ3AxVkVZNDBxYzFtWUtXUW44PRIkMDc2ZDAzMzMtNGFmZC00Mzk0LTk0ZjMtMDk1NWEwNDMyODFlGAAgAigCMJqc/NTpMTiuqpeLyzFAnPP71OkxShw4eWQwSWFMb3E0QStjQy9GRXlPdWlBMXBHOTg9WiciJf////8AAAAG+zRtUEVkMEdRRmplbmQydlVHWWFPbFZmL3NTVT1lOPk5MxKwAQgvEqsBChxucHBBU3RTYzZUUjBiYUFucWNKell0b2U0a0k9EiQ0MGFmOWQ2Zi02MmU1LTQ2YTYtYTU4YS1hYzAwYTBhMDQzYjkYACACKAIwqpz81OkxOKf14oiaMUCa8/vU6TFKHFUxWEhSb3ppQ3p0NGlZbVBxTW9FK1Q4OFY4dz1aJyIl/////wAAAAXdZktkSWFBdWtjUFE0bE14SkVUcGhVNFR5Z3JZPWU4+TkzEqcBCCsSogEKHGtITXE5VnJKcUNEZHIva2lzL0tVNEIwVk9ZRT0SJGM1ODVmZjU5LTQxMjMtNDU5MC04NTAyLTcwNTJmZmI4YTJjMhgAIAAoADC+gInNkzE4/KeOwIIxQPynjsCCMUoccXRsQkEwMDRWVTUzd1lGaXRBdGhzYnRMVTVvPVoeIhxCUmZheWdaMGw1VFlrOWk0aDI5TWVta1VmU3M9ZTj5OTMSpwEIEBKiAQocRXdhdG1jVU91SmN6WE5OSGNJRHZ6YzdNOWlFPRIkODEyZTZiZjYtZjQ1Zi00Mjk3LTljM2MtZjQ3ZWQ3NDAzNWQyGAAgACgAMLqk88yTMTivzvLMkzFAr87yzJMxShxGcExPdFVKOUpBRWlsblUyWUxzYlJtbTVka2M9Wh4iHE1tR0JXNTRQU2M5ekNLdUdIUCttd0kyWkwzND1lAAAAABKoAQgZEqMBChxLdGZMTlUzTSt6RWcwM0g1bDdYdzRTUldWWjQ9EiQ3N2NlMDU0ZC0zY2E0LTQ0ZWItYjNmNS04MDYxYWRlNDYzOGYYACAAKAAw9fP3zJMxOPGe98yTMUDxnvfMkzFKHEJTQituRXljZlUxQVJDYVRPbFpHSkd6MWVpbz1aHyId2kRKY0tyb1psNldJdmtKODh0NXo3S0h3QS93WT1lAAAAABKnAQgUEqIBChxsd3NEZXJJR2llWEVrWitpMm5QR3ZQRHVWSEk9EiRiMDYzZWNkOC1kZjA1LTRkNDktODNhZS01OTYxZmQ0MmU0NWQYACAAKAAwu6TzzJMxOIGQn5PqL0CBkJ+T6i9KHGVma1JrS0VKQnY0Y1lzQ2VCTmVxSnMwN0VkMD1aHiIcWFI3cUxmcHpEK29WTldsaGVyWVlpOTl5L3A0PWV9SLWNEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDM1NzNlZWYwLWY5MWUtNTYyOS05ZDBjLWJkNTY4MWNiYWRmORgAIAAoADC9jLrD7C44goqfk+ovQIKKn5PqL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASrwEINRKqAQocM0RzVkJDYVRIa1NkcUM3WFhSRm15akU5RlQ0PRIkY2RhOTljNjgtZjY2Yy00Zjk4LTk2NWUtY2Q2ZTg4ZGNhMjI1GAAgAigCMJmc/NTpMTjgq+frsjFAnPP71OkxShwxcDlEeWw3dHA1a3lnYWN5Z0I4bWR1Q21NWVU9WiYiJP////8AAAAGemljTDVZbnpUN1Nnb21mVmYrS2NIdmRwSGs0PWU4+TkzEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGI5NDRiYzlhLTRkOTAtNTg4MC04MDg0LTJjOTRlZmFkYjQwYRgAIAAoADDCjLrD7C444Iqfk+ovQOCKn5PqL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}
